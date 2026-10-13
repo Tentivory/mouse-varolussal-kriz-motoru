@@ -1,0 +1,3 @@
+# Gerçekte hiçbir bağımlılık yok.
+# Ama ciddi görünsün diye buradayız.
+# pip install random time  # bunlar zaten built-in
